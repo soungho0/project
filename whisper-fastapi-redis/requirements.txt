@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+redis>=5
+pydantic-settings
+python-multipart
+websockets
+openai-whisper
+torch
